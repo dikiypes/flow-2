@@ -1,5 +1,5 @@
 def some_word(string):
-    '''big title!!!'''
+    '''title big!!!'''
     '''vadimrulez'''
     return string.upper()
 def big_latter(string):
